@@ -1,4 +1,4 @@
-package com.kk.easy;
+package com.kk.string;
 
 import java.util.Scanner;
 

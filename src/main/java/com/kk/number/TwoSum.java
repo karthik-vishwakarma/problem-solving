@@ -1,4 +1,4 @@
-package com.kk.easy;
+package com.kk.number;
 
 import java.util.Arrays;
 import java.util.HashMap;

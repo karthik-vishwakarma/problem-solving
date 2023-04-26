@@ -1,4 +1,4 @@
-package com.kk.medium;
+package com.kk.array;
 
 import java.util.ArrayList;
 

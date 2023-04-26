@@ -1,4 +1,4 @@
-package com.kk.easy;
+package com.kk.string;
 
 //reverse a string without using String inbuilt function
 public class FinalReverseWithoutUsingStringMethods {
