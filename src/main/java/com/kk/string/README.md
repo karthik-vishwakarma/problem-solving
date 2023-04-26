@@ -1,6 +1,7 @@
 # String
 
-1. Swap two numbers without using the third variable
+1. [Swap two numbers without using the third variable](SwapTwoNumberWithoutThirdVariable.java)
+
    ```java
     import java.util.Scanner;
     public class SwapTwoNumberWithoutThirdVariable {
