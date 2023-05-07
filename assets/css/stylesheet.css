@@ -2960,3 +2960,9 @@ input:-internal-autofill-selected {
   white-space: pre-wrap;
   overflow: hidden;
 }
+
+.logo1 {
+  color: black;
+  font-weight: bold;
+  font-size: 16px;
+}
