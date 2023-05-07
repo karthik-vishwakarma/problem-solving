@@ -2955,3 +2955,8 @@ input:-internal-autofill-selected {
   left: -40px;
   border-radius: 4px 0px 0px 4px;
 }
+
+.code-container pre {
+  white-space: pre-wrap;
+  overflow: hidden;
+}
