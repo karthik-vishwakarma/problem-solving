@@ -1,4 +1,4 @@
-package test;
+package com.kk.string;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
