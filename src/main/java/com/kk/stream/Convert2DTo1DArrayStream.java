@@ -1,4 +1,4 @@
-package com.kk.array;
+package com.kk.stream;
 
 import java.util.Arrays;
 import java.util.List;
