@@ -1,7 +1,9 @@
 package com.kk.stream;
 
 import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
+import java.util.stream.Stream;
 
 public class GetMinFromList {
     public static void main(String[] args) {
@@ -17,5 +19,9 @@ public class GetMinFromList {
         //Without using min function
         Integer min = list.stream().reduce((a, b) -> a < b ? a : b).orElse(-1);
         System.out.println(min);
+
+
+        Integer i1 = Stream.of(2, 4, 6, 1, 8, 9).min(Comparator.comparing(Integer::valueOf)).orElse(-1);
+        System.out.println(i1);
     }
 }
