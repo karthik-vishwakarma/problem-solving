@@ -1,6 +1,8 @@
 package com.kk.string;
-import java.util.*;
-import java.util.function.*;
+
+import java.util.LinkedHashMap;
+import java.util.Map;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class FindFirstNonRepetitiveChar {
