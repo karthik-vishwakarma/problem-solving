@@ -1,4 +1,4 @@
-package com.kk;
+package com.kk.string;
 
 import java.util.StringJoiner;
 
